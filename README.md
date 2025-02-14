@@ -8,4 +8,4 @@ https://akpawar-internship-task-3.netlify.app/
 
 # Screen Shots :
 
-![alt text](</Internship-Task-3/images/Screenshot (82).png>) ![alt text](</Internship-Task-3/images/Screenshot (83).png>) ![alt text](</Internship-Task-3/images//Screenshot (84).png>)
+![alt text](<images/SS1.png>) ![alt text](<images/SS2.png>) ![alt text](<images/SS3.png>)
