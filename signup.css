@@ -18,6 +18,11 @@ body {
     gap: 0.5rem;
 }
 
+.logo a {
+    color: #000;
+    text-decoration: none;
+}
+
 .mysvg {
     height: 2rem;
     width: 2rem;
@@ -79,11 +84,13 @@ input {
     cursor: pointer;
     color: #fff;
 }
-.pass-label{
+
+.pass-label {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
+
 .toggle-password {
     cursor: pointer;
     font-size: 18px;

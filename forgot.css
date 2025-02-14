@@ -18,6 +18,11 @@ body {
     gap: 0.5rem;
 }
 
+.logo a {
+    color: #000;
+    text-decoration: none;
+}
+
 .mysvg {
     height: 2rem;
     width: 2rem;

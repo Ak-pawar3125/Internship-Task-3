@@ -11,6 +11,11 @@
     width: 2rem;
 }
 
+.logo a {
+    color: #fff;
+    text-decoration: none;
+}
+
 .nav1 {
     background-color: #653239;
     height: 4rem;
