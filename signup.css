@@ -96,3 +96,8 @@ input {
     font-size: 18px;
     user-select: none;
 }
+
+a{
+    color: #1f7a93;
+    text-decoration: none;
+}
